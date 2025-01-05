@@ -6,5 +6,5 @@ starrting with project one of my hitlist
 
 
 ----------------------------------------------------------------------
-**PROJECT ONE **
+**PROJECT ONE**
 foode_fie 
