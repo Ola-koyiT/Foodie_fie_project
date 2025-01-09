@@ -1,13 +1,6 @@
-# Olas_DA_Portfolio
-Analytic's Portfolio 
-starrting with project one of my hitlist
-
-
-
-
+ #Foode_fie#
 ----------------------------------------------------------------------
-#PROJECT ONE# foode_fie 
-
+ 
 **Insights intended to be genrated** 
 
 How many customers has Foodie-Fi ever had?
