@@ -12,9 +12,9 @@ starrting with project one of my hitlist
 
 How many customers has Foodie-Fi ever had?
 
-What is the monthly distribution of trial plan start_date values for our dataset - use the start of the month as the group by value
+What is the monthly distribution of trial plan start_date values for our dataset? - use the start of the month as the group by value
 
-What plan start_date values occur after the year 2020 for our dataset? Show the breakdown by count of events for each plan_name
+What plan start_date values occur after the year 2020 for our dataset? Show the breakdown by count of events for each plan_name?
 
 What is the customer count and percentage of customers who have churned rounded to 1 decimal place?
 
